@@ -7,6 +7,6 @@ class HomeController
 {
     public function index()
     {
-        return 'This index page';
+        require dirname(__DIR__).'/views/index.php';
     }
 }

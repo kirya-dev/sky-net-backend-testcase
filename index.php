@@ -4,6 +4,7 @@
  *
  * @author Kirill Matasov kirill.matasov@immelman.ru
  */
+require __DIR__ . '/db_cfg.php';
 require __DIR__ . '/System/autoloader.php';
 
 
